@@ -12,4 +12,4 @@ what you will learn from this project
 .
 I suggest you to run these spark code snippets in "UBUNTU" and use virtual box to swap your windows operating system to UBUNTU(of linux terminal)
 .
-You might get any unnexpected errors while running the code , if you are stuck with any such problems drop me a mail prajwalmh6111@gmail.com(i'll try my level best to make you understand the code part and help with your error)
+You might get any unnexpected errors while running the code , if you are stuck with any such problems drop me a mail prajwalmh6111@gmail.com(i'll try my level best to make you understand the code part and help with your error).
