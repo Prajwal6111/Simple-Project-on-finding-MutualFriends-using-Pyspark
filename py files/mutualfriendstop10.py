@@ -1,5 +1,5 @@
 """
-Author: Anshul Pardhi
+
 Spark program to calculate top-10 mutual friend pairs and their basic information
 """
 
