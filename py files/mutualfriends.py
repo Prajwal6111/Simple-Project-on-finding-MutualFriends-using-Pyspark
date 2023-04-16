@@ -1,5 +1,5 @@
 """
-Author: Anshul Pardhi
+
 Spark program to calculate total mutual friends for all friend pairs
 """
 
