@@ -5,11 +5,11 @@ Take following actions before running these PY FILES
 1. Make sure you change those file directories to your convinient directories.
 2. Be proper with the modules and packages.
 .
-what you will learn from this project
-* How to create the session of spark
-* Using of RDD's
-* Running SQL command lines 
-* Some action keys like ReduceBy() , collect() 
+*what you will learn from this project
+  * How to create the session of spark
+  * Using of RDD's
+  * Running SQL command lines 
+  * Some action keys like ReduceBy() , collect() 
 .
 I suggest you to run these spark code snippets in "UBUNTU" and use virtual box to swap your windows operating system to UBUNTU(of linux terminal)
 .
