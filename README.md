@@ -5,7 +5,7 @@ Take following actions before running these PY FILES
 1. Make sure you change those file directories to your convinient directories.
 2. Be proper with the modules and packages.
 .
-*what you will learn from this project
+* what you will learn from this project
   * How to create the session of spark
   * Using of RDD's
   * Running SQL command lines 
