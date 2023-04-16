@@ -1,7 +1,7 @@
 # Simple-Project-on-finding-MutualFriends-using-Pyspark
 This project will run on your own operating system environment with a proper installation of Pyspark packages , Java JDK , winutensils
 Take following actions before running these PY FILES
-Markup : 
+ 
 1. Make sure you change those file directories to your convinient directories.
 [^2]: Be proper with the modules and packages.
 .
